@@ -1,0 +1,22 @@
+{
+  "name": "daily-journal",
+  "version": "1.0.0",
+  "description": "app to write a daily journal",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkBish24/Electron-Daily-Journal.git"
+  },
+  "author": "Mark Bishoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkBish24/Electron-Daily-Journal/issues"
+  },
+  "homepage": "https://github.com/MarkBish24/Electron-Daily-Journal#readme",
+  "dependencies": {
+    "electron": "^36.0.0"
+  }
+}
