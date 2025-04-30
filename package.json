@@ -2,7 +2,7 @@
   "name": "daily-journal",
   "version": "1.0.0",
   "description": "app to write a daily journal",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/MarkBish24/Electron-Daily-Journal#readme",
   "dependencies": {
-    "electron": "^36.0.0"
+    "electron": "^36.0.0",
+    "nodemon": "^3.1.10",
+    "react": "^19.1.0"
   }
 }
